@@ -3,4 +3,4 @@ SELECT
 FROM
   TABLE
 JOIN
-  HOGE using(huga, id)
+  HOGE using(huga, id, name)
